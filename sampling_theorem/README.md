@@ -9,7 +9,7 @@
 An educational Flutter application for visualizing, analyzing, and understanding DSP concepts through interactive visualizations.
 
 <p align="center">
-  <img src="assets/images/banner.png" alt="DSP Lab – Interactive Signal Processing" width="100%" />
+  <img src="assets/images/banner.png" alt="DSP Lab – Interactive Signal Processing" width="50%" />
 </p>
 
 
