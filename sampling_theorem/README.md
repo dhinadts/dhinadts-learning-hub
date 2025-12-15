@@ -8,7 +8,10 @@
 > **Interactive Digital Signal Processing Laboratory in Your Pocket**  
 An educational Flutter application for visualizing, analyzing, and understanding DSP concepts through interactive visualizations.
 
-![DSP Lab Banner](https://via.placeholder.com/1200x400/4A5568/FFFFFF?text=DSP+LAB+-+Interactive+Signal+Processing)
+<p align="center">
+  <img src="assets/images/banner.png" alt="DSP Lab – Interactive Signal Processing" width="100%" />
+</p>
+
 
 ---
 
@@ -57,12 +60,12 @@ An educational Flutter application for visualizing, analyzing, and understanding
 
 ## 📱 Screenshots
 
-| Signal Generator | FFT Analyzer | Voice DSP |
-|------------------|-------------|-----------|
+| Signal Generator                                                             | FFT Analyzer                                                             | Voice DSP                                                             |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
 | ![](https://via.placeholder.com/300x600/1E40AF/FFFFFF?text=Signal+Generator) | ![](https://via.placeholder.com/300x600/059669/FFFFFF?text=FFT+Analyzer) | ![](https://via.placeholder.com/300x600/DC2626/FFFFFF?text=Voice+DSP) |
 
-| Settings | Dashboard | Animations |
-|----------|-----------|------------|
+| Settings                                                             | Dashboard                                                             | Animations                                                             |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | ![](https://via.placeholder.com/300x600/7C3AED/FFFFFF?text=Settings) | ![](https://via.placeholder.com/300x600/F59E0B/FFFFFF?text=Dashboard) | ![](https://via.placeholder.com/300x600/10B981/FFFFFF?text=Animations) |
 
 ---
@@ -75,10 +78,8 @@ An educational Flutter application for visualizing, analyzing, and understanding
 - **GetX 4.8+** – State management, routing, DI
 
 ### Audio Processing
-- `record` – Audio recording
 - `flutter_sound` – Audio playback & processing
-- `audio_waveforms` – Waveform visualization
-- `mic_stream` – Real-time microphone access
+- `audioplayers` - Simple audio playback (UI sounds, samples, alerts, demos)
 
 ### UI & Design
 - Material Design 3
@@ -94,7 +95,7 @@ An educational Flutter application for visualizing, analyzing, and understanding
 
 ---
 
-## 📁 Project Structure
+<!-- ## 📁 Project Structure
 
 ```text
 lib/
@@ -123,7 +124,7 @@ lib/
 ```
 
 ---
-
+ -->
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -136,8 +137,8 @@ lib/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/dsp-lab.git
-cd dsp-lab
+git clone https://github.com/dhinadts/dhinadts-learning-hub
+cd dhinadts-learning-hub/sampling_theorem
 flutter pub get
 ```
 
@@ -255,7 +256,7 @@ Licensed under the **MIT License**.
 
 ## 📞 Support
 
-- 📧 Email: **support@dsplab.app**
+- 📧 Email: **dhinadts@gmail.com**
 - 🐛 GitHub Issues
 - 💬 Discord Community
 
